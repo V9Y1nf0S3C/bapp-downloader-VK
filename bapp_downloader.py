@@ -29,7 +29,9 @@ BAPP_IDS = [
     ('JSON Web Token Attacker','JSON_Web_Token_Attacker.bapp','82d6c60490b540369d6d5d01822bdf61'),
     ('JSON Web Tokens','JSON_Web_Tokens.bapp','f923cbf91698420890354c1d8958fee6'),
     ('JWT Editor','JWT_Editor.bapp','26aaa5ded2f74beea19e2ed8345a93dd'),
+    ('Logger++','Logger++.bapp','470b7057b86f41c396a97903377f3d81'),
     ('Param Miner','Param_Miner.bapp','17d2949a985c4b7ca092728dba871943'),
+    ('Piper','Piper.bapp','e4e0f6c4f0274754917dcb5f4937bb9e'),
     ('Retire.js','Retire.js.bapp','36238b534a78494db9bf2d03f112265c'),
     ('Same Origin Method Execution','Same_Origin_Method_Execution.bapp','9fea3ce4e79d450a9a15d05a79f9d349'),
     ('SameSite Reporter','SameSite_Reporter.bapp','ea1aa264b86d424ba35760d7e24c9e60'),
@@ -47,12 +49,12 @@ BAPP_IDS = [
     ('Java Deserialization Scanner', 'java_deserialization_scanner.bapp', '228336544ebe4e68824b5146dbbd93ae'),
     ('Log4Shell Everywhere', 'log4shell_everywhere.bapp', '186be35f6e0d418eb1f6ecf1cc66a74d'),
     ('OpenAPI Parser', 'open_api_parser.bapp', '6bf7574b632847faaaa4eb5e42f1757c'),
-    ('Param Miner', 'param_miner.bapp', '17d2949a985c4b7ca092728dba871943'),
     ('Proxy Auto Config', 'proxy_auto_config.bapp', '7b3eae07aa724196ab85a8b64cd095d1'),
     ('Reflected Parameters', 'reflected_parameters.bapp', '8e8f6bb313db46ba9e0a7539d3726651'),
     ('Request Minimizer', 'request_minimizer.bapp', 'cc16f37549ff416b990d4312490f5fd1'),
     ('Request Randomizer', 'request_randomizer.bapp', '36d6d7e35dac489b976c2f120ce34ae2'),
     ('Taborator', 'taborator.bapp', 'c9c37e424a744aa08866652f63ee9e0f'),
+    ('Session Handler+', 'SessionHandler+.bapp', 'e4aa4cee811f43af96b2cd5e7e81598e'),
 ]
 
 
