@@ -31,6 +31,7 @@ BAPP_IDS = [
     ('JSON Web Token Attacker','JSON_Web_Token_Attacker.bapp','82d6c60490b540369d6d5d01822bdf61'),
     ('J2EEScan','J2EEScan.bapp','7ec6d429fed04cdcb6243d8ba7358880'),
     ('JSON Web Tokens','JSON_Web_Tokens.bapp','f923cbf91698420890354c1d8958fee6'),
+    ('JQ','JQ.bapp','c0d90a42c99848588d3df017cca717b5'),
     ('JWT Editor','JWT_Editor.bapp','26aaa5ded2f74beea19e2ed8345a93dd'),
     ('Logger++','Logger++.bapp','470b7057b86f41c396a97903377f3d81'),
     ('Param Miner','Param_Miner.bapp','17d2949a985c4b7ca092728dba871943'),
